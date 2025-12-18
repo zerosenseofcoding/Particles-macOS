@@ -23,7 +23,7 @@ A native macOS application built with SwiftUI, SceneKit, and Vision Framework th
 1. **Clone the Repository**:
 ```bash
    git clone https://github.com/zerosenseofcoding/particles-app.git
-   cd particles-app
+   cd particles
 ```
 
 2. **Open in Xcode**: Double-click `Particles.xcodeproj` to open the project.
