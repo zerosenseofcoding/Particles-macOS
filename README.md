@@ -17,7 +17,7 @@ A native macOS application built with SwiftUI, SceneKit, and Vision Framework th
 - **UI Framework**: SwiftUI
 - **3D Engine**: SceneKit
 - **Computer Vision**: Vision (VNDetectHumanHandPoseRequest) & AVFoundation
-- **Platform**: macOS 12.0+ (optimized for Apple Silicon & Intel)
+- **Platform**: macOS 13.5+ (optimized for Apple Silicon & Intel)
 
 ## 🚀 Installation & Setup
 1. **Clone the Repository**:
